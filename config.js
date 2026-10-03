@@ -1,1 +1,1 @@
-window.HAROLD_CFG={NAME:"Hallucinating Harold",TICKER:"HAROLD",CHAIN:"solana",PAD:"pump.fun",CA:"",PAIR:"",X:"",BUY:"",CHART:""};
+window.HAROLD_CFG={NAME:"Hallucinating Harold",TICKER:"HAROLD",CHAIN:"solana",PAD:"pump.fun",CA:"452ictaJhaUZj9BbkfUdDAQDZeADGe2b8dXVXSLHpump",PAIR:"",X:"https://x.com/HaroldSure100",BUY:"https://pump.fun/coin/452ictaJhaUZj9BbkfUdDAQDZeADGe2b8dXVXSLHpump",CHART:""};
